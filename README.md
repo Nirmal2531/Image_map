@@ -23,6 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+```
 map.html
 
 <html>
@@ -107,6 +108,7 @@ The University of Madras, established in 1857, is one of the oldest and most pre
 </p>
 </body>
 </html>
+```
 # OUTPUT
   <img width="1536" height="1024" alt="787bc21b-28d2-4804-9b5e-7d7a779743b1" src="https://github.com/user-attachments/assets/9a39f40c-5202-4044-bbf3-5c11542282fa" />
   <img width="1920" height="1080" alt="530270158-2a216d4d-3349-49b5-8f14-835b7bbcae2e" src="https://github.com/user-attachments/assets/b631e6bb-c7b2-4238-abcb-e3d6239faa4f" />
